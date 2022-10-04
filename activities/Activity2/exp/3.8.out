@@ -1,0 +1,9 @@
+Collecting timing data for thread of size 8
+DFUF data first unrolled filter took 4.136145 seconds 
+Data check failed offset 1
+FFUF filter first unrolled filter took 5.567240 seconds 
+Data check failed offset 1
+DFUD data first unrolled data took 5.715773 seconds 
+Data check failed offset 1
+FFUD filter first unrolled data took 4.093413 seconds 
+Data check failed offset 1

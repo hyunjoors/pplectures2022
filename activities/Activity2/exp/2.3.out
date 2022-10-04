@@ -1,0 +1,20 @@
+Collecting timing data for thread of size 1
+Parallel data first took 12.993184 seconds 
+Parallel filter first took 14.592810 seconds 
+Data check failed offset 1
+Collecting timing data for thread of size 2
+Parallel data first took 7.047683 seconds 
+Parallel filter first took 7.498719 seconds 
+Data check failed offset 1
+Collecting timing data for thread of size 4
+Parallel data first took 3.997847 seconds 
+Parallel filter first took 3.978473 seconds 
+Data check failed offset 1
+Collecting timing data for thread of size 8
+Parallel data first took 2.554642 seconds 
+Parallel filter first took 2.492593 seconds 
+Data check failed offset 1
+Collecting timing data for thread of size 16
+Parallel data first took 2.204014 seconds 
+Parallel filter first took 2.189605 seconds 
+Data check failed offset 1

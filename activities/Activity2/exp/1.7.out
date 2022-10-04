@@ -1,0 +1,36 @@
+Collecting timing data for filter of length 1
+Serial data first took 0.169278 seconds 
+Serial filter first took 0.117614 seconds 
+Data check failed offset 67076090
+Collecting timing data for filter of length 2
+Serial data first took 0.235709 seconds 
+Serial filter first took 0.206500 seconds 
+Data check failed offset 67076090
+Collecting timing data for filter of length 4
+Serial data first took 0.424242 seconds 
+Serial filter first took 0.404406 seconds 
+Data check failed offset 67076090
+Collecting timing data for filter of length 8
+Serial data first took 0.792993 seconds 
+Serial filter first took 0.821309 seconds 
+Data check failed offset 67076090
+Collecting timing data for filter of length 16
+Serial data first took 1.576886 seconds 
+Serial filter first took 1.659378 seconds 
+Data check failed offset 67076090
+Collecting timing data for filter of length 32
+Serial data first took 3.221736 seconds 
+Serial filter first took 3.362981 seconds 
+Data check failed offset 67076090
+Collecting timing data for filter of length 64
+Serial data first took 6.619035 seconds 
+Serial filter first took 6.586476 seconds 
+Data check failed offset 67076090
+Collecting timing data for filter of length 128
+Serial data first took 12.642280 seconds 
+Serial filter first took 13.144166 seconds 
+Data check failed offset 67076090
+Collecting timing data for filter of length 256
+Serial data first took 24.817144 seconds 
+Serial filter first took 26.448832 seconds 
+Data check failed offset 67076090
