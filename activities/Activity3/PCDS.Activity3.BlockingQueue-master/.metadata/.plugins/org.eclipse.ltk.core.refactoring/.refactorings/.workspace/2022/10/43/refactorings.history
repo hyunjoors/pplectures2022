@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;PCDS.Activity3.BlockingQueue-master&apos;" deleteContents="true" description="Delete resource &apos;PCDS.Activity3.BlockingQueue-master&apos;" element1="/PCDS.Activity3.BlockingQueue-master" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1665988644796"/>
+</session>

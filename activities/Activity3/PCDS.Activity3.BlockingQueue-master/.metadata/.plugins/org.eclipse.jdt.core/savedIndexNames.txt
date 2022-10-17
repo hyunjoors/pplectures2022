@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\Rosalyn\Documents\GitHub\pplectures2022\activities\Activity3\PCDS.Activity3.BlockingQueue-master\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
